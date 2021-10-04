@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+//test
 func main() {
 	fmt.Println("This program outputs a/b")
 	fmt.Print("Enter a and b: ")
